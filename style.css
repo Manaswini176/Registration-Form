@@ -6,7 +6,7 @@
     
 }
 body{
-    background-color:green;
+    background-color:purple;
 
 }
 h1{
@@ -66,8 +66,8 @@ h1{
     width:30%;
     margin:auto;
     padding:0.5em;
-    background-color: red;
-    color:white;
+    background-color: pink;
+    color:green;
     font-weight: 800;
 }
 .output{
